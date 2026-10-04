@@ -1,6 +1,6 @@
-# ⚡ Energy Consumption & Demand Analysis using Python
+# Energy Consumption & Demand Analysis using Python
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes household electricity consumption data to identify consumption patterns, peak-demand periods, high-usage events, and relationships between electrical variables.
 
@@ -10,7 +10,7 @@ The analysis was performed using Python and focuses on practical data analysis a
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze household electricity consumption patterns
 * Identify peak electricity-demand hours
@@ -24,7 +24,7 @@ The analysis was performed using Python and focuses on practical data analysis a
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Dataset:** Individual Household Electric Power Consumption
 
@@ -47,7 +47,7 @@ The dataset contains approximately **2 million minute-level electricity consumpt
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -60,7 +60,7 @@ The dataset contains approximately **2 million minute-level electricity consumpt
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Energy-demand-analysis/
@@ -86,7 +86,7 @@ Energy-demand-analysis/
 
 ---
 
-# 🔍 Analysis Performed
+#  Analysis Performed
 
 ## 1. Data Understanding & Cleaning
 
@@ -170,7 +170,7 @@ Instead of automatically removing these observations, they were analyzed as pote
 
 ---
 
-# 🤖 Machine Learning
+# Machine Learning
 
 ## Feature Engineering
 
@@ -219,7 +219,7 @@ This prevents future observations from being used to train the model when evalua
 
 ---
 
-# 📈 Key Visualizations
+# Key Visualizations
 
 The project includes:
 
@@ -236,7 +236,7 @@ The project includes:
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
 The analysis provides insights into:
 
@@ -249,7 +249,7 @@ The analysis provides insights into:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -289,7 +289,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Sumit Maurya**
 
@@ -299,6 +299,6 @@ Skills: Python | SQL | Pandas | NumPy | Tableau | Machine Learning | Data Analys
 
 ---
 
-## ⭐ Project Goal
+## Project Goal
 
 This project was created as part of my transition into **Data Analytics and Data Science**, with a focus on developing practical skills through real-world datasets and end-to-end analytical projects.
